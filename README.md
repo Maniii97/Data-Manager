@@ -1,4 +1,4 @@
-# Form Data Manager Extension
+# Data Manager Extension
 
 Form Data Manager is a Chrome extension designed to help you manage form data effortlessly. With this extension, you can save, search, and copy frequently used tag-value pairs to streamline filling out online forms.
 
