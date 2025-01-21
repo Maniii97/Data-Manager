@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
       li.style.borderRadius = "12px";
       li.innerHTML = `
             <span class="text-blue-500 font-semibold">${tag}:</span>
-            <span>${value}</span>
+            <span class="truncate max-w-xs">${value}</span>
             <div class="flex space-x-2">
               <button
                 class="copy-btn text-green-500"
